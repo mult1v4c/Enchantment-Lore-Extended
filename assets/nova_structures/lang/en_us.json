@@ -1,0 +1,43 @@
+{
+  "enchantment_lore.nova_structures:antidote.description": "\u00A72\u00A7lAntidote\u00A7r\nChestplate\n\u00A78Max Lvl: I\u00A7r\n\nNegates all damage from poison and deals it to the chestplate.\n\n\u00A7cIncompatible: Protection enchantments\u00A7r",
+  "enchantment_lore.nova_structures:antidote.lore": "\u00A77\u00A7oA shield against nature's silent bite, turning venom into resilience.\u00A7r",
+
+  "enchantment_lore.nova_structures:conductivity_curse.description": "\u00A7c\u00A7lC\u00A7ku\u00A7c\u00A7lrs\u00A7ke\u00A7c\u00A7l of C\u00A7ko\u00A7c\u00A7lnd\u00A7ku\u00A7c\u00A7lct\u00A7ki\u00A7c\u00A7lv\u00A7ki\u00A7c\u00A7lty\u00A7r\nAny tool, weapon, or armor\n\u00A78Max Lvl: I\u00A7r\n\nGives a chance to get struck by lightning during a thunderstorm.",
+  "enchantment_lore.nova_structures:conductivity_curse.lore": "\u00A77\u00A7oTo dance with the storm is to invite its wrath. Wield the lightning, or be struck by it.\u00A7r",
+
+  "enchantment_lore.nova_structures:ghasted.description": "\u00A74\u00A7lGhasted\u00A7r\nCrossbow\n\u00A78Max Lvl: III\u00A7r\n\nShoot a fire arrow which explodes upon landing, destroying the arrow in the process.\n\n\u00A7cIncompatible: Piercing, Multishot and Gravity\u00A7r",
+  "enchantment_lore.nova_structures:ghasted.lore": "\u00A77\u00A7oUnleash the fury of the Nether, a fiery blast that scorches all it touches.\u00A7r",
+
+  "enchantment_lore.nova_structures:gravity.description": "\u00A7b\u00A7lGravity\u00A7r\nCrossbow\n\u00A78Max Lvl: III\u00A7r\n\nShoot an arrow which pulls all mobs around it upon landing, destroying the arrow in the process.\n\n\u00A7cIncompatible: Piercing, Multishot and Ghasted\u00A7r",
+  "enchantment_lore.nova_structures:gravity.lore": "\u00A77\u00A7oBend the very fabric of space, pulling foes into the heart of the storm.\u00A7r",
+
+  "enchantment_lore.nova_structures:illagers_bane.description": "\u00A74\u00A7lIllager's Bane\u00A7r\nWeapon\n\u00A78Max Lvl: V\u00A7r\n\nDeal extra damage to Illagers, Vexes, Witches and Ravagers.\n\n\u00A7cIncompatible: Sharpness, Smite, Bane of Arthropods\u00A7r",
+  "enchantment_lore.nova_structures:illagers_bane.lore": "\u00A77\u00A7oA hunter's oath, honed to dismantle the ranks of ill-willed raiders.\u00A7r",
+
+  "enchantment_lore.nova_structures:outreach.description": "\u00A7d\u00A7lOutreach\u00A7r\nChestplate\n\u00A78Max Lvl: IV\u00A7r\n\nRaises the block interaction range.",
+  "enchantment_lore.nova_structures:outreach.lore": "\u00A77\u00A7oBeyond the grasp of normal reach, the world itself yields to your touch.\u00A7r",
+
+  "enchantment_lore.nova_structures:photosynthesis.description": "\u00A72\u00A7lPhotosynthesis\u00A7r\nAny tool, weapon, or armor\n\u00A78Max Lvl: I\u00A7r\n\nRepairs the item when in direct view of the sun.\n\n\u00A7cIncompatible: Mending\u00A7r",
+  "enchantment_lore.nova_structures:photosynthesis.lore": "\u00A77\u00A7oBathed in the sun's embrace, the item renews itself, drawing life from light.\u00A7r",
+
+  "enchantment_lore.nova_structures:traveler.description": "\u00A7b\u00A7lTraveler\u00A7r\nBoots\n\u00A78Max Lvl: III\u00A7r\n\nFaster sprinting speed and step up full blocks.\n\n\u00A7cIncompatible: Soul speed\u00A7r",
+  "enchantment_lore.nova_structures:traveler.lore": "\u00A77\u00A7oWith each stride, the land itself seems to flatten, eager to speed your journey.\u00A7r",
+
+  "enchantment_lore.nova_structures:wax_wings.description": "\u00A7b\u00A7lWax Wings\u00A7r\nElytra\n\u00A78Max Lvl: I\u00A7r\n\nNegates durability damage from slow gliding but raises by 50% the durability damage from gliding fast.\n\n\u00A7cIncompatible: Unbreaking\u00A7r",
+  "enchantment_lore.nova_structures:wax_wings.lore": "\u00A77\u00A7oA delicate balance of flight, where grace saves and haste condemns.\u00A7r",
+
+  "enchantment_lore.nova_structures:wither_coated.description": "\u00A74\u00A7lWither Coated\u00A7r\nSwords, Axes\n\u00A78Max Lvl: III\u00A7r\n\nInflicts the Wither I effect to hit foes for 20s at level 1. Higher levels increase the Wither effect's level but lower the duration. In practice, the effect deals the same amount of Wither damage but faster with each level. Each attack with the enchantment also damages the weapon by 1 per attack.\n\n\u00A7cIncompatible: Fire Aspect\u00A7r",
+  "enchantment_lore.nova_structures:wither_coated.lore": "\u00A77\u00A7oA vile touch, eroding the very essence of life from those it strikes.\u00A7r",
+
+  "enchantment_lore.nova_structures:power.description": "\u00A74\u00A7lMight\u00A7r\nCrossbow\n\u00A78Max Lvl: V\u00A7r\n\nAdds +0.5 damage per level to arrows fired from this crossbow.",
+  "enchantment_lore.nova_structures:power.lore": "\u00A77\u00A7oThe arrow flies with undeniable force, piercing through defenses with raw power.\u00A7r",
+
+  "enchantment_lore.nova_structures:piercing.description": "\u00A7b\u00A7lBlowthrough\u00A7r\nBow\n\u00A78Max Lvl: III\u00A7r\n\nAllows an arrow to go through mobs (+1 mob per level).",
+  "enchantment_lore.nova_structures:piercing.lore": "\u00A77\u00A7oNo single foe can halt this projectile; it cleaves a path through ranks.\u00A7r",
+
+  "enchantment_lore.nova_structures:multishot.description": "\u00A7b\u00A7lTri-shot\u00A7r\nBow\n\u00A78Max Lvl: I\u00A7r\n\nMakes the bow fire 3 arrows.",
+  "enchantment_lore.nova_structures:multishot.lore": "\u00A77\u00A7oA deadly volley, where one arrow becomes three, ensuring a wider impact.\u00A7r",
+
+  "enchantment_lore.nova_structures:spiteful.description": "\u00A74\u00A7lSpiteful\u00A7r\nSwords, Axes\n\u00A78Max Lvl: III\u00A7r\n\nBelow 2.5 hearts, players are given +2 (+2 per level) attack damage. If hit by a mob, there is a 30% (+15% per level) chance to get Strength I for 1-3 seconds.",
+  "enchantment_lore.nova_structures:spiteful.lore": "\u00A77\u00A7oWounded, yet defiant. The closer to death, the fiercer the retaliation.\u00A7r"
+}
