@@ -46,7 +46,7 @@ This lore content is distributed under the **Voxel License**, a copy of which is
 **Modpack Creators:** You are welcome to include **Enchantment Lore Extended** in your modpacks. Please ensure a link back to this Modrinth page and proper credit are provided.
 
 ## Feedback
-If you find any misspellings, errors, or corrections, please report them on the [GitHub Issues page](https://github.com/mult1v4c/Enchantment-Lore-Extended/issues). Any feedback and suggestions are always welcome.
+If you have any feedback or find any misspellings, errors, or corrections, please report them on the [GitHub Issues page](https://github.com/mult1v4c/Enchantment-Lore-Extended/issues). They are always welcome!
 
 ## Support
 If you appreciate the effort put into this pack, please consider supporting me on [Ko-fi](https://ko-fi.com/mult1v4c). Your support is greatly appreciated!
