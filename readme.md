@@ -43,7 +43,7 @@ The enchantment lore text in this resource pack is from the projects by [Hardel]
 
 This lore content is distributed under the **Voxel License**, a copy of which is included in the `.zip` file and available [here](https://raw.githubusercontent.com/Hardel-DW/NeoEnchant/refs/heads/main/LICENSE).
 
-**Modpack Creators:** You are welcome to include **Enchantment Lore Extended** in your modpacks. Please ensure a link back to this Modrinth page and proper credit are provided.
+**Modpack Creators:** You are welcome to include **Enchantment Lore Extended** in your modpacks. Please ensure a link back to this page and proper credit are provided.
 
 ## Feedback
 If you have any feedback or find any misspellings, errors, or corrections, please report them on the [GitHub Issues page](https://github.com/mult1v4c/Enchantment-Lore-Extended/issues). They are always welcome!
