@@ -1,0 +1,127 @@
+{
+  "enchantment_lore.minecraft:aqua_affinity.description": "\u00A7b\u00A7lAqua Affinity\u00A7r\nHelmets\n\u00A78Max Lvl: V\u00A7r\n\nRemoves the mining speed penalty when underwater.",
+  "enchantment_lore.minecraft:aqua_affinity.lore": "\u00A77\u00A7oThe waters part for those who truly belong within. You become as one with the current.\u00A7r",
+
+  "enchantment_lore.minecraft:bane_of_arthropods.description": "\u00A74\u00A7lBane of Arthropods\u00A7r\nSwords, Axes\n\u00A78Max Lvl: X\u00A7r\n\nDeals increased damage and applies Slowness IV for 1.5 seconds to arthropods (spiders, cave spiders, bees, silverfish, endermites).\n\n\u00A7cIncompatible: Smite, Sharpness, Breach, Density\u00A7r",
+  "enchantment_lore.minecraft:bane_of_arthropods.lore": "\u00A77\u00A7oA primal fear instilled in the hearts of all segmented creatures. They will know pain.\u00A7r",
+
+  "enchantment_lore.minecraft:binding_curse.description": "\u00A7c\u00A7lC\u00A7ku\u00A7c\u00A7lrs\u00A7ke\u00A7c\u00A7l of B\u00A7ki\u00A7c\u00A7lnd\u00A7ki\u00A7c\u00A7lnd\u00A7ki\u00A7c\u00A7lng\u00A7r\nAll equipable items (Armor, Elytra, Carved Pumpkins, Mob Heads)\n\u00A78Max Lvl: I\u00A7r\n\nThis item cannot be removed from a player's armor slot once equipped, unless the player dies or the item breaks.",
+  "enchantment_lore.minecraft:binding_curse.lore": "\u00A77\u00A7oOnce worn, it clings to its master, forsaking all others. Only death or destruction will part it.\u00A7r",
+
+  "enchantment_lore.minecraft:blast_protection.description": "\u00A76\u00A7lBlast Protection\u00A7r\nArmor (Helmet, Chestplate, Leggings, Boots)\n\u00A78Max Lvl: VII\u00A7r\n\nReduces damage from explosions, including ghast fireballs, creeper explosions, and TNT.\n\n\u00A7cIncompatible: Fire Protection, Protection, Projectile Protection\u00A7r",
+  "enchantment_lore.minecraft:blast_protection.lore": "\u00A77\u00A7oShrug off explosive forces. The loudest bangs become but whispers.\u00A7r",
+
+  "enchantment_lore.minecraft:breach.description": "\u00A74\u00A7lBreach\u00A7r\nMaces\n\u00A78Max Lvl: V\u00A7r\n\nReduces the effectiveness of armor on the target by 15% per level when hitting with a Mace.\n\n\u00A7cIncompatible: Density, Bane of Arthropods, Smite, Sharpness\u00A7r",
+  "enchantment_lore.minecraft:breach.lore": "\u00A77\u00A7oStrike true, and watch their defenses crumble. No armor can withstand this power.\u00A7r",
+
+  "enchantment_lore.minecraft:channeling.description": "\u00A7b\u00A7lChanneling\u00A7r\nTridents\n\u00A78Max Lvl: V\u00A7r\n\nWhen thrown, a lightning bolt strikes the point of impact if a mob is hit and it is raining/thunderstorming. Converts pigs to zombified piglins, creepers to charged creepers, and villagers to witches.\n\n\u00A7cIncompatible: Riptide\u00A7r",
+  "enchantment_lore.minecraft:channeling.lore": "\u00A77\u00A7oSummon the wrath of the skies. When the storm rages, your enemies will feel its bite.\u00A7r",
+
+  "enchantment_lore.minecraft:density.description": "\u00A74\u00A7lDensity\u00A7r\nMaces\n\u00A78Max Lvl: V\u00A7r\n\nIncreases the damage dealt per fallen block when using a Mace's smash attack.\n\n\u00A7cIncompatible: Breach, Bane of Arthropods, Smite, Sharpness\u00A7r",
+  "enchantment_lore.minecraft:density.lore": "\u00A77\u00A7oThe greater the fall, the mightier the impact. Gravity becomes your most potent weapon.\u00A7r",
+
+  "enchantment_lore.minecraft:depth_strider.description": "\u00A7b\u00A7lDepth Strider\u00A7r\nBoots\n\u00A78Max Lvl: VIII\u00A7r\n\nIncreases horizontal movement speed when in water. Each level reduces water slowdown.\n\n\u00A7cIncompatible: Frost Walker\u00A7r",
+  "enchantment_lore.minecraft:depth_strider.lore": "\u00A77\u00A7oMove through water as effortlessly as air. The depths hold no resistance for you.\u00A7r",
+
+  "enchantment_lore.minecraft:efficiency.description": "\u00A7d\u00A7lEfficiency\u00A7r\nTools (Pickaxes, Shovels, Axes, Hoes)\n\u00A78Max Lvl: X\u00A7r\n\nIncreases the mining, digging, or chopping speed of blocks.",
+  "enchantment_lore.minecraft:efficiency.lore": "\u00A77\u00A7oYour tools work with unnatural speed. What once took ages, now takes moments.\u00A7r",
+
+  "enchantment_lore.minecraft:feather_falling.description": "\u00A7b\u00A7lFeather Falling\u00A7r\nBoots\n\u00A78Max Lvl: X\u00A7r\n\nReduces fall damage by 12% per level (max 48% at Lvl IV) and damage from ender pearl teleportation.",
+  "enchantment_lore.minecraft:feather_falling.lore": "\u00A77\u00A7oDescend with the grace of a falling feather. The ground offers a soft embrace.\u00A7r",
+
+  "enchantment_lore.minecraft:fire_aspect.description": "\u00A76\u00A7lFire Aspect\u00A7r\nSwords\n\u00A78Max Lvl: IV\u00A7r\n\nSets attacked entities on fire, dealing fire damage over time.",
+  "enchantment_lore.minecraft:fire_aspect.lore": "\u00A77\u00A7oIgnite your foes with every strike. Let them feel the burning wrath of your blade.\u00A7r",
+
+  "enchantment_lore.minecraft:fire_protection.description": "\u00A76\u00A7lFire Protection\u00A7r\nArmor (Helmet, Chestplate, Leggings, Boots)\n\u00A78Max Lvl: VII\u00A7r\n\nReduces damage from fire, lava, and blaze fireballs. Also reduces time on fire.\n\n\u00A7cIncompatible: Blast Protection, Protection, Projectile Protection\u00A7r",
+  "enchantment_lore.minecraft:fire_protection.lore": "\u00A77\u00A7oWalk through flames unharmed. The inferno cannot touch you.\u00A7r",
+
+  "enchantment_lore.minecraft:flame.description": "\u00A76\u00A7lFlame\u00A7r\nBows\n\u00A78Max Lvl: V\u00A7r\n\nFires arrows that ignite entities upon impact.",
+  "enchantment_lore.minecraft:flame.lore": "\u00A77\u00A7oYour arrows carry the heat of a furnace. Ignite your targets from a distance.\u00A7r",
+
+  "enchantment_lore.minecraft:fortune.description": "\u00A72\u00A7lFortune\u00A7r\nTools (Pickaxes, Shovels, Axes, Hoes)\n\u00A78Max Lvl: V\u00A7r\n\nIncreases the quantity of certain item drops from mined blocks (e.g., coal, diamonds, lapis lazuli, redstone, crops).\n\n\u00A7cIncompatible: Silk Touch\u00A7r",
+  "enchantment_lore.minecraft:fortune.lore": "\u00A77\u00A7oThe earth is generous to those who wield this power. Greater riches await.\u00A7r",
+
+  "enchantment_lore.minecraft:frost_walker.description": "\u00A7b\u00A7lFrost Walker\u00A7r\nBoots\n\u00A78Max Lvl: VIII\u00A7r\n\nConverts adjacent water source blocks into frosted ice blocks when walking over them. Prevents damage from magma blocks.\n\n\u00A7cIncompatible: Depth Strider\u00A7r",
+  "enchantment_lore.minecraft:frost_walker.lore": "\u00A77\u00A7oWhere you step, water turns to solid ice. Even the hottest rocks cannot harm your feet.\u00A7r",
+
+  "enchantment_lore.minecraft:impaling.description": "\u00A79\u00A7lImpaling\u00A7r\nTridents\n\u00A78Max Lvl: X\u00A7r\n\nDeals increased damage to all aquatic mobs (dolphins, guardians, elder guardians, squids, glow squids, fish, axolotls, drowned, turtles).",
+  "enchantment_lore.minecraft:impaling.lore": "\u00A77\u00A7oThe bane of all creatures of the deep. Your trident strikes pierce with deadly accuracy.\u00A7r",
+
+  "enchantment_lore.minecraft:infinity.description": "\u00A75\u00A7lInfinity\u00A7r\nBows\n\u00A78Max Lvl: I\u00A7r\n\nAllows the use of a single arrow indefinitely when fired from the bow, as long as at least one arrow is present in the player's inventory.\n\n\u00A7cIncompatible: Mending\u00A7r",
+  "enchantment_lore.minecraft:infinity.lore": "\u00A77\u00A7oA single arrow, forever returned to your quiver. Your supply is endless.\u00A7r",
+
+  "enchantment_lore.minecraft:knockback.description": "\u00A7b\u00A7lKnockback\u00A7r\nSwords\n\u00A78Max Lvl: X\u00A7r\n\nIncreases the distance entities are pushed away when hit by a melee attack.",
+  "enchantment_lore.minecraft:knockback.lore": "\u00A77\u00A7oSend your enemies sprawling with every strike. Maintain control of the battlefield.\u00A7r",
+
+  "enchantment_lore.minecraft:looting.description": "\u00A7d\u00A7lLooting\u00A7r\nSwords\n\u00A78Max Lvl: V\u00A7r\n\nIncreases the quantity of items dropped by killed mobs and improves the chance of rare drops.",
+  "enchantment_lore.minecraft:looting.lore": "\u00A77\u00A7oThe spoils of victory are yours in abundance. Your foes yield more than just their lives.\u00A7r",
+
+  "enchantment_lore.minecraft:loyalty.description": "\u00A7d\u00A7lLoyalty\u00A7r\nTridents\n\u00A78Max Lvl: VIII\u00A7r\n\nCauses the thrown trident to return to the player after a short delay.",
+  "enchantment_lore.minecraft:loyalty.lore": "\u00A77\u00A7oLike a faithful hound, your trident always returns to your hand.\u00A7r",
+
+  "enchantment_lore.minecraft:luck_of_the_sea.description": "\u00A7b\u00A7lLuck of the Sea\u00A7r\nFishing Rods\n\u00A78Max Lvl: V\u00A7r\n\nIncreases the chance of catching treasure items (e.g., enchanted books, saddles, name tags) while fishing.",
+  "enchantment_lore.minecraft:luck_of_the_sea.lore": "\u00A77\u00A7oThe ocean's bounty finds its way to your hook. Fortunes lie beneath the waves.\u00A7r",
+
+  "enchantment_lore.minecraft:lure.description": "\u00A7b\u00A7lLure\u00A7r\nFishing Rods\n\u00A78Max Lvl: V\u00A7r\n\nDecreases the time it takes for fish and other items to bite the fishing rod.",
+  "enchantment_lore.minecraft:lure.lore": "\u00A77\u00A7oCreatures of the water cannot resist your bait. They bite swiftly, drawn by an unseen force.\u00A7r",
+
+  "enchantment_lore.minecraft:mending.description": "\u00A7d\u00A7lMending\u00A7r\nAny tool, weapon, or armor\n\u00A78Max Lvl: V\u00A7r\n\nRepairs the enchanted item using experience orbs collected by the player.\n\n\u00A7cIncompatible: Infinity\u00A7r",
+  "enchantment_lore.minecraft:mending.lore": "\u00A77\u00A7oExperience flows into your gear, repairing its wear and tear. It becomes truly unbreakable.\u00A7r",
+
+  "enchantment_lore.minecraft:multishot.description": "\u00A7b\u00A7lMultishot\u00A7r\nCrossbows\n\u00A78Max Lvl: III\u00A7r\n\nFires three arrows or fireworks in a cone at the cost of one.\n\n\u00A7cIncompatible: Multishot\u00A7r",
+  "enchantment_lore.minecraft:multishot.lore": "\u00A77\u00A7oOne pull, a volley of projectiles. Overwhelm your enemies with a hail of shots.\u00A7r",
+
+  "enchantment_lore.minecraft:piercing.description": "\u00A7b\u00A7lPiercing\u00A7r\nCrossbows\n\u00A78Max Lvl: X\u00A7r\n\nArrows or fireworks fired by the crossbow can penetrate multiple entities. Each level allows one additional entity to be pierced.\n\n\u00A7cIncompatible: Piercing\u00A7r",
+  "enchantment_lore.minecraft:piercing.lore": "\u00A77\u00A7oYour projectiles pass through targets with ease. No shield or formation can stop you.\u00A7r",
+
+  "enchantment_lore.minecraft:power.description": "\u00A74\u00A7lPower\u00A7r\nBows\n\u00A78Max Lvl: VII\u00A7r\n\nIncreases the damage dealt by arrows fired from the bow.",
+  "enchantment_lore.minecraft:power.lore": "\u00A77\u00A7oEach arrow carries immense force. Unleash devastating shots upon your foes.\u00A7r",
+
+  "enchantment_lore.minecraft:projectile_protection.description": "\u00A71\u00A7lProjectile Protection\u00A7r\nArmor (Helmet, Chestplate, Leggings, Boots)\n\u00A78Max Lvl: VII\u00A7r\n\nReduces damage from projectiles such as arrows, trident throws, ghast fireballs, and blaze fireballs.\n\n\u00A7cIncompatible: Protection, Blast Protection, Fire Protection\u00A7r",
+  "enchantment_lore.minecraft:projectile_protection.lore": "\u00A77\u00A7oRanged attacks glance off your armor. You are safe from distant threats.\u00A7r",
+
+  "enchantment_lore.minecraft:protection.description": "\u00A71\u00A7lProtection\u00A7r\nArmor (Helmet, Chestplate, Leggings, Boots)\n\u00A78Max Lvl: V\u00A7r\n\nReduces damage from most common sources, excluding void and hunger damage.\n\n\u00A7cIncompatible: Blast Protection, Fire Protection, Projectile Protection\u00A7r",
+  "enchantment_lore.minecraft:protection.lore": "\u00A77\u00A7oAn aura of resilience surrounds you. Most harms are lessened by its embrace.\u00A7r",
+
+  "enchantment_lore.minecraft:punch.description": "\u00A7b\u00A7lPunch\u00A7r\nBows\n\u00A78Max Lvl: X\u00A7r\n\nIncreases the knockback distance of arrows fired from the bow.",
+  "enchantment_lore.minecraft:punch.lore": "\u00A77\u00A7oYour arrows strike with concussive force, sending targets reeling.\u00A7r",
+
+  "enchantment_lore.minecraft:quick_charge.description": "\u00A7b\u00A7lQuick Charge\u00A7r\nCrossbows\n\u00A78Max Lvl: V\u00A7r\n\nDecreases the time required to load a crossbow. Each level reduces loading time.",
+  "enchantment_lore.minecraft:quick_charge.lore": "\u00A77\u00A7oLoad your crossbow with unnatural swiftness. Maintain constant pressure on your foes.\u00A7r",
+
+  "enchantment_lore.minecraft:respiration.description": "\u00A7b\u00A7lRespiration\u00A7r\nHelmets\n\u00A78Max Lvl: VIII\u00A7r\n\nExtends underwater breathing time and improves underwater visibility.\n\n\u00A7cIncompatible: Channeling, Loyalty\u00A7r",
+  "enchantment_lore.minecraft:respiration.lore": "\u00A77\u00A7oBreathe easily beneath the waves. The depths no longer hold their breath.\u00A7r",
+
+  "enchantment_lore.minecraft:riptide.description": "\u00A7b\u00A7lRiptide\u00A7r\nTridents\n\u00A78Max Lvl: VIII\u00A7r\n\nPropels the player forward when thrown while in water or rain. Only works when the player is submerged or in precipitation.",
+  "enchantment_lore.minecraft:riptide.lore": "\u00A77\u00A7oLaunch yourself with the force of the tide. The water becomes your ally, propelling you forward.\u00A7r",
+
+  "enchantment_lore.minecraft:sharpness.description": "\u00A74\u00A7lSharpness\u00A7r\nSwords, Axes\n\u00A78Max Lvl: VII\u00A7r\n\nIncreases the melee attack damage dealt to all mobs.\n\n\u00A7cIncompatible: Bane of Arthropods, Smite, Breach, Density\u00A7r",
+  "enchantment_lore.minecraft:sharpness.lore": "\u00A77\u00A7oYour blade cuts deeper, cleaving through all who stand in your way. A true master of combat.\u00A7r",
+
+  "enchantment_lore.minecraft:silk_touch.description": "\u00A72\u00A7lSilk Touch\u00A7r\nTools (Pickaxes, Shovels, Axes, Hoes)\n\u00A78Max Lvl: I\u00A7r\n\nAllows mining blocks themselves rather than their usual drops (e.g., ore blocks, glass, full bookshelves, frosted ice, mycelium, podzol).\n\n\u00A7cIncompatible: Fortune\u00A7r",
+  "enchantment_lore.minecraft:silk_touch.lore": "\u00A77\u00A7oHarvest blocks with exquisite care. They retain their form, untouched by the pickaxe's harshness.\u00A7r",
+
+  "enchantment_lore.minecraft:smite.description": "\u00A74\u00A7lSmite\u00A7r\nSwords, Axes\n\u00A78Max Lvl: X\u00A7r\n\nDeals increased damage to undead mobs (e.g., zombies, skeletons, phantoms, drowned, strays, husks, wither skeletons, zombified piglins, ghasts, the Wither).\n\n\u00A7cIncompatible: Bane of Arthropods, Sharpness, Breach, Density\u00A7r",
+  "enchantment_lore.minecraft:smite.lore": "\u00A77\u00A7oUnleash divine wrath upon the undead. Their unholy forms shrivel before your might.\u00A7r",
+
+  "enchantment_lore.minecraft:soul_speed.description": "\u00A7b\u00A7lSoul Speed\u00A7r\nBoots\n\u00A78Max Lvl: VII\u00A7r\n\nIncreases movement speed when walking on soul sand or soul soil.",
+  "enchantment_lore.minecraft:soul_speed.lore": "\u00A77\u00A7oThe very souls beneath your feet urge you onward. Speed across the Nether's grim landscape.\u00A7r",
+
+  "enchantment_lore.minecraft:sweeping.description": "\u00A74\u00A7lSweeping Edge\u00A7r\nSwords\n\u00A78Max Lvl: X\u00A7r\n\nIncreases the damage dealt by sweeping attacks to nearby mobs.",
+  "enchantment_lore.minecraft:sweeping.lore": "\u00A77\u00A7oYour sweeping strikes cleave through groups of foes. No one is safe within your reach.\u00A7r",
+
+  "enchantment_lore.minecraft:swift_sneak.description": "\u00A7b\u00A7lSwift Sneak\u00A7r\nLeggings\n\u00A78Max Lvl: VII\u00A7r\n\nIncreases movement speed while sneaking.",
+  "enchantment_lore.minecraft:swift_sneak.lore": "\u00A77\u00A7oMove with unmatched stealth and speed. Become a phantom in the shadows.\u00A7r",
+
+  "enchantment_lore.minecraft:thorns.description": "\u00A74\u00A7lThorns\u00A7r\nArmor (Helmet, Chestplate, Leggings, Boots)\n\u00A78Max Lvl: IV\u00A7r\n\nDamages attackers when they hit the player, with a chance to activate based on level. Items with Thorns take extra durability damage.",
+  "enchantment_lore.minecraft:thorns.lore": "\u00A77\u00A7oA painful embrace for those who dare to strike you. Retribution for every blow.\u00A7r",
+
+  "enchantment_lore.minecraft:unbreaking.description": "\u00A7d\u00A7lUnbreaking\u00A7r\nAny tool, weapon, or armor\n\u00A78Max Lvl: X\u00A7r\n\nIncreases the durability of the enchanted item by providing a chance to prevent durability loss when used.",
+  "enchantment_lore.minecraft:unbreaking.lore": "\u00A77\u00A7oYour gear resists the ravages of time and use. It endures beyond all expectations.\u00A7r",
+
+  "enchantment_lore.minecraft:vanishing_curse.description": "\u00A7c\u00A7lC\u00A7ku\u00A7c\u00A7lrs\u00A7ke\u00A7c\u00A7l of V\u00A7ka\u00A7c\u00A7ln\u00A7ki\u00A7c\u00A7lsh\u00A7ki\u00A7c\u00A7lng\u00A7r\nAny item\n\u00A78Max Lvl: I\u00A7r\n\nThis item disappears from the inventory upon player death.",
+  "enchantment_lore.minecraft:vanishing_curse.lore": "\u00A77\u00A7oA fleeting possession, destined to vanish with its owner's demise. Lost forever.\u00A7r",
+
+  "enchantment_lore.minecraft:wind_burst.description": "\u00A7b\u00A7lWind Burst\u00A7r\nMaces\n\u00A78Max Lvl: V\u00A7r\n\nUpon hitting an enemy with a Mace, emits a Wind Burst, launching the attacker upward to chain smash attacks. Found only in Ominous Vaults.",
+  "enchantment_lore.minecraft:wind_burst.lore": "\u00A77\u00A7oUnleash a powerful gust, lifting your foes skyward for a final, crushing blow. Master of the aerial assault.\u00A7r"
+}
